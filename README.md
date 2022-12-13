@@ -5,7 +5,7 @@
 
 ## Rock, Paper, Scissors Hand Gestures Image Classification Project
 
-This is one my first image classification project using the Tensorflow Keras library as part of a machine learning where the raw dataset contains over 2188 sample pictures 
+This is one my first image classification project using the Tensorflow Keras library where the raw dataset contains over 2188 sample pictures 
 of rock, paper and scissors hand gestures (of roughly equal amount for each) and the task was to build a simple image classifier using a Sequential model that can correctly
 classify uploaded images of hand gesture as resembling either "rock", "paper" or "scissors" with an accuracy of over 95%. This projects demonstrates the use of:
 - An ImageDataGenerator instance to create image augmentations 
